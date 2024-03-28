@@ -37,7 +37,7 @@ Save the public address and password of node2 in info.txt.
 ### To create a genesis block:
 8.Create a file named “privateblock.json” inside go-ethereum.
 Type this in genesis file:
-```
+```py
 {
     "config": {
     "chainId": { CHAIN_ID },
@@ -115,7 +115,7 @@ Replace password.txt with { PASSWORD_FILE_NAME_EXTENSION }.
 
 17.Click on file and under contract, create new file named “New.sol”
 Type this is the file
-```
+```solidity
 //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.19;

@@ -91,6 +91,8 @@ cd bnode
 12.To generate key
 ```
 bootnode -genkey boot.key
+```
+```
 bootnode -nodekey boot.key verbosity 7 -addr "127.0.0.1:30301"
 ```
 13.save the enode value in info.txt.

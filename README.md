@@ -141,8 +141,10 @@ contract New{
 19.Node1 has deployed and added to blockchain.
 
 ## OUTPUT:
-
+### Deploying Transaction in Remix:
 ![out](bc1.png)
+
+### Contract Creation Output in Command Prompt:
 ![out](bc2.png)
 
 ## RESULT:

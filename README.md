@@ -142,8 +142,8 @@ contract New{
 
 ## OUTPUT:
 
-![image](https://github.com/sathishramachandhiran/Private_Blockchain/assets/120574768/7b6442f8-c75b-42cb-913d-f55586ad0d7e)
- 
+![out](bc1.png)
+![out](bc2.png)
 
 ## RESULT:
 
